@@ -1,1 +1,2 @@
-ikinci commit feat branch
+ikinci commit
+ikinciye github'da yeni eklemeler yaptık. eski girdileri de güncelledik.
